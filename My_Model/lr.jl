@@ -14,7 +14,7 @@
 using CSV, Plots
 
 #Import the CSV file through the use of CSV module
-data=CSV.File("/home/lophius/Dev/Linear Regression/Datasets/normalized_train.csv")
+data=CSV.File("../Datasets/normalized_train.csv")
 
 #Store the features of the CSV file as a vector
 X=data.x
