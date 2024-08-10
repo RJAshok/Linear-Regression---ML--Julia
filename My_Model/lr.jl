@@ -11,7 +11,7 @@
 
 
 #Import the necessary modules
-using CSV, Plots, TypedTables
+using CSV, Plots
 
 #Import the CSV file through the use of CSV module
 data=CSV.File("/home/lophius/Dev/Linear Regression/Datasets/normalized_train.csv")
