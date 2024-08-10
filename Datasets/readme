@@ -1,3 +1,0 @@
-noramalized_train_csv - The normalized training dataset
-train_csv - The original dataset from which the normalized_train dataset was created from
-test_csv - Dataset used for testing
