@@ -6,7 +6,7 @@ I have also added the datasets for training and testing.
 There is also a normalized training dataset which is made from the training dataset, this is the datased used for training.
 This is because using the train dataset will result in the cost value going towards infinity (Inf). 
 # Dependancies
-My_Model - CSV.jl Plots.jl
+My_Model - CSV.jl Plots.jl 
 GLM_Model - CSV.jl Plots.jl TypedTables.jl GLM.jl
 
 # Linear-Regression---ML--Julia
